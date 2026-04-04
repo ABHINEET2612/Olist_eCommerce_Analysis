@@ -87,66 +87,42 @@ Due to file size limitations, the Power BI dashboard file is hosted externally.
 ---
 ## 🔍 Key Insights
 
-### 📈 Sales & Revenue Trends
-- Revenue scaled rapidly from late 2016 to mid-2018, consistently exceeding **R$1M/month**, indicating strong platform growth.
-- A major spike in **November 2017 (+53% MoM)** highlights the strong impact of **Black Friday**.
-- **Bed, Bath & Table** and **Health & Beauty** dominate both revenue and order volume.
-- **Computers & Accessories** → high revenue with fewer orders (**high AOV**).
-- **Sports & Leisure** → high order volume but lower revenue (**low-value, high-frequency purchases**).
+- **Strong Growth:** Revenue scaled rapidly (2016–2018), consistently crossing **R$1M/month**, with a major spike during **Black Friday (+53% MoM)**.
 
----
+- **Category Dynamics:**  
+  - **Bed, Bath & Table** and **Health & Beauty** dominate revenue and volume  
+  - **Computers** → high AOV  
+  - **Sports & Leisure** → high volume, low value  
 
-### 💳 Payment Behavior
-- **~74% of transactions use credit cards**, driven by installment-based purchasing.
-- **~19% use boleto**, representing a significant **underbanked customer segment**.
-- Nearly **1 in 5 customers rely on non-card payments**, requiring targeted strategies.
+- **Payment Behavior:**  
+  - **74% credit card**, **19% boleto**  
+  - Indicates a significant **underbanked customer segment (~20%)**
 
----
+- **Delivery Impact:**  
+  - ~**8% orders delayed**, avg delay **10+ days**  
+  - Ratings drop from **4.29 → 2.27** when late  
+  - → **Biggest driver of customer dissatisfaction**
 
-### 🚚 Delivery Performance
-- **7.83% of orders are delivered late** (~7,500+ orders).
-- Late deliveries are delayed by an average of **10.57 days**.
-- Strong impact on satisfaction:
-  - Late deliveries → **2.27 avg rating**
-  - On-time deliveries → **4.29 avg rating**
-- Delivery delays are the **primary driver of negative reviews**.
+- **Customer Experience:**  
+  - **57% 5-star reviews**, but high **1-star share**  
+  - → Indicates a **polarized experience**
 
----
+- **Product Risk:**  
+  - **Bed, Bath & Table** = high revenue but poor ratings  
+  - → **High churn risk category**
 
-### ⭐ Customer Satisfaction
-- Review distribution is **J-shaped**:
-  - **57% of customers give 5-star ratings**
-  - **1-star reviews are the second most common**
-- Indicates a **polarized customer experience** driven by delivery and product issues.
-
----
-
-### ⚠️ Product Quality Risks
-- **Security & Services** is the lowest-rated category.
-- **Bed, Bath & Table** appears in both:
-  - Top revenue categories  
-  - Worst-rated categories  
-- Indicates **high churn risk at scale**.
-
----
-
-### 🌍 Geographic Insights
-- **São Paulo (SP)**:
-  - ~37% of total revenue  
-  - ~49% of total customers  
-- **RJ and MG** follow as secondary markets.
-- Northern states (**RR, AP, AM**) have:
-  - Extremely high delivery times (**26–28 days**)  
-  - Very low revenue contribution  
-- Suggests **logistics constraints + untapped growth opportunity**.
-
----
+- **Geographic Gap:**  
+  - **São Paulo dominates** (37% revenue, 49% customers)  
+  - Northern states → **2x delivery time + low revenue**  
+  - → **Major untapped opportunity**
+ 
 ## 📈 Business Impact
-This analysis helps:
-- Improve customer satisfaction by reducing delivery delays
-- Increase revenue through seasonal demand optimization
-- Identify high-risk categories affecting customer retention
-- Highlight untapped geographic markets for expansion
+
+- Reduce delivery delays → improve customer satisfaction  
+- Leverage seasonal spikes (Black Friday) → maximize revenue  
+- Fix quality issues in key categories → reduce churn  
+- Target boleto users → unlock additional demand  
+- Expand in underserved regions → drive growth  
 ---
 ## 💡 Business Recommendations
 
