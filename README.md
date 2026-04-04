@@ -7,7 +7,8 @@ End-to-End data analysis project using Python, MySQL,  and Power BI
 This project presents an end-to-end analysis of the Brazilian Olist e-commerce dataset to uncover actionable insights related to sales performance, customer behavior, delivery efficiency, and regional trends.
 
 The analysis is performed using **Python for data processing**, **SQL for querying**, and **Power BI for visualization**, simulating a real-world business intelligence workflow.
-
+---
+> This project simulates a real-world business analysis workflow from raw data to actionable insights.
 ---
 ## ❓ Problem Statement
 The objective of this project is to analyze Olist's e-commerce data to identify key drivers of revenue, customer satisfaction, and operational inefficiencies.
