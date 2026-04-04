@@ -1,4 +1,4 @@
-# Olist_ECommerce_Analysis
+# Olist_e-Commerce_Analysis
 End-to-End data analysis project using Python, MySQL,  and Power BI
 
 # 🛒 Olist E-Commerce Data Analysis
@@ -9,6 +9,8 @@ This project presents an end-to-end analysis of the Brazilian Olist e-commerce d
 The analysis is performed using **Python for data processing**, **SQL for querying**, and **Power BI for visualization**, simulating a real-world business intelligence workflow.
 
 ---
+## ❓ Problem Statement
+The objective of this project is to analyze Olist's e-commerce data to identify key drivers of revenue, customer satisfaction, and operational inefficiencies.
 
 ## 🎯 Objectives
 - Analyze revenue growth and seasonal trends  
@@ -18,12 +20,35 @@ The analysis is performed using **Python for data processing**, **SQL for queryi
 - Identify geographic opportunities for expansion  
 
 ---
-
+## 📌 Key Metrics Snapshot
+- Total Orders: 99,000
+- Revenue: R$ 16.01 Million
+- Late Delivery Rate: 7.93%
+- Avg Delay: 10.57 days
+- 5-Star Reviews: 57%
+---
 ## 🛠️ Tools & Technologies
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
 - **SQL** (MySQL)  
 - **Power BI**  
+---
+## 🧾 SQL Analysis
 
+SQL was used to transform raw data into actionable insights across multiple dimensions of the business.
+
+- **Data Preparation:** Created relational tables and loaded multiple datasets with proper formatting and validation  
+- **Performance Optimization:** Used indexing to improve query efficiency  
+- **Revenue Analysis:** Monthly trends, MoM growth (CTE + LAG), and running totals (window functions)  
+- **Delivery Performance:** Late delivery rate and its impact on customer reviews  
+- **Customer Insights:** Identified high-value customers using subqueries  
+- **Product & Category Analysis:** Top-performing categories and AOV vs volume behavior  
+- **Geographic Insights:** State-wise revenue and identification of logistics bottlenecks  
+- **Seller Analysis:** Ranked sellers based on revenue contribution  
+
+**Key SQL Concepts Used:**  
+CTEs, Window Functions (LAG, SUM OVER), Subqueries, Joins, Aggregations  
+
+📄 Full SQL workflow available in: `sql/Olist_Analysis.sql`
 ---
 
 ## 📂 Project Structure
@@ -79,7 +104,7 @@ Due to file size limitations, the Power BI dashboard file is hosted externally.
 ---
 
 ### 🚚 Delivery Performance
-- **7.93% of orders are delivered late** (~7,500+ orders).
+- **7.83% of orders are delivered late** (~7,500+ orders).
 - Late deliveries are delayed by an average of **10.57 days**.
 - Strong impact on satisfaction:
   - Late deliveries → **2.27 avg rating**
@@ -116,7 +141,13 @@ Due to file size limitations, the Power BI dashboard file is hosted externally.
 - Suggests **logistics constraints + untapped growth opportunity**.
 
 ---
-
+## 📈 Business Impact
+This analysis helps:
+- Improve customer satisfaction by reducing delivery delays
+- Increase revenue through seasonal demand optimization
+- Identify high-risk categories affecting customer retention
+- Highlight untapped geographic markets for expansion
+---
 ## 💡 Business Recommendations
 
 1. **Leverage Seasonal Demand**
@@ -133,7 +164,7 @@ Due to file size limitations, the Power BI dashboard file is hosted externally.
 
 4. **Target Boleto Users**
    - ~19% customers rely on boleto.
-   - Introduce **bolet0-specific offers and flexible payment options**.
+   - Introduce **boleto-specific offers and flexible payment options**.
 
 5. **Expand in Underserved Regions**
    - Northern states show low revenue but high potential.
