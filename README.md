@@ -38,17 +38,17 @@ The analysis is performed using **Python for data processing**, **SQL for queryi
 ## 📊 Dashboard Preview
 
 ### 📌 Page 1 – Sales & Revenue Overview
-![Dashboard 1](assets/Dashboard_1.png)
+![Dashboard 1](assets/Dashboard_Page-1.png)
 
 ---
 
 ### 📌 Page 2 – Geographic Analysis
-![Dashboard 2](assets/Dashboard_2.png)
+![Dashboard 2](assets/Dashboard_Page-2.png)
 
 ---
 
 ### 📌 Page 3 – Recommendations
-![Dashboard 3](assets/Dashboard_3.png)
+![Dashboard 3](assets/Dashboard_Page-3.png)
 
 ---
 
