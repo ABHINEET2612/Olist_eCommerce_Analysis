@@ -51,7 +51,13 @@ The analysis is performed using **Python for data processing**, **SQL for queryi
 ![Dashboard 3](assets/Dashboard_Page-3.png)
 
 ---
+## 📊 Power BI Dashboard File
 
+Due to file size limitations, the Power BI dashboard file is hosted externally.
+
+🔗 **Download Dashboard (.pbix):**  
+[Click here to access the Dashboard](https://drive.google.com/file/d/1BAU8_466LinyOzzB3wHg-VFq1AFbZCXJ/view?usp=sharing)
+---
 ## 🔍 Key Insights
 
 ### 📈 Sales & Revenue Trends
