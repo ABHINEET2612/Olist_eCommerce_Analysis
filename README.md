@@ -48,7 +48,7 @@ SQL was used to transform raw data into actionable insights across multiple dime
 **Key SQL Concepts Used:**  
 CTEs, Window Functions (LAG, SUM OVER), Subqueries, Joins, Aggregations  
 
-📄 Full SQL workflow available in: `sql/Olist_Analysis.sql`
+📄 Full SQL workflow available in: `sql/Olist_Analysis.sql`.
 ---
 
 ## 📂 Project Structure
