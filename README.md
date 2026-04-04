@@ -148,12 +148,5 @@ The dataset used in this project is sourced from Kaggle and consists of multiple
 
 ---
 
-## 🚀 Future Improvements
-- Predictive modeling for sales forecasting  
-- Customer segmentation using ML  
-- Real-time dashboard deployment  
-
----
-
 ## 👤 Author
 **Abhineet Gaur**
