@@ -1,4 +1,4 @@
-# Olist_e-Commerce_Analysis
+# Olist_eCommerce_Analysis
 End-to-End data analysis project using Python, MySQL,  and Power BI
 
 # 🛒 Olist E-Commerce Data Analysis
