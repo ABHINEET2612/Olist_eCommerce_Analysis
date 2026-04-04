@@ -57,6 +57,8 @@ Due to file size limitations, the Power BI dashboard file is hosted externally.
 
 🔗 **Download Dashboard (.pbix):**  
 [Click here to access the Dashboard](https://drive.google.com/file/d/1BAU8_466LinyOzzB3wHg-VFq1AFbZCXJ/view?usp=sharing)
+
+> Note: The file may take a few seconds to download due to its size.
 ---
 ## 🔍 Key Insights
 
